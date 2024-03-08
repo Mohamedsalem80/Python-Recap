@@ -22,3 +22,15 @@ dict1 = {
 }
 
 print(dict1.values())
+
+#integer division
+a = 14
+b = 3
+
+# 14 - 3 = 11
+# 11 - 3 = 8
+# 8 - 3 = 5
+# 5 - 3 = 2
+# 2
+
+print(a // b)
