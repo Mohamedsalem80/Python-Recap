@@ -21,5 +21,4 @@ dict1 = {
     }
 }
 
-print(dict1.values()) # 
-# tup[0] = 2
+print(dict1.values())
